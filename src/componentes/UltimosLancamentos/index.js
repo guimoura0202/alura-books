@@ -40,7 +40,7 @@ function UltimosLancamentos (){
                 titulo="Talvez você se interesse por..."
                 subtitulo="Era Uma Vez"
                 descricao="Livro sobre contos de fadas"
-                img ={imagemLivro}
+                img={imagemLivro}
             />
         </UltimosLancamentosContainer>
         
